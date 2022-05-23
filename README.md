@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigcoiner
-- 👀 I’m interested in NFT's and Smart Contracts
-- 🌱 I’m currently learning Solidity, Runkit, Remix, etc
+- 👀 I’m interested in Blockchain and Smart Contract Development
+- 🌱 I’m currently learning all about blockchain and smart contracts
 - 💞️ I’m looking to collaborate on any and all of them
 - 📫 How to reach me ronisepotts@gmail.com
 
